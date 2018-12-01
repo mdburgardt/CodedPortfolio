@@ -212,6 +212,15 @@ height: 30%;
   text-align: center;
 }
 
+.social-sizing{
+  width:100px;
+  height:100px;
+  margin-top: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+
 
 header.masthead {
   padding-top: calc(6rem + 72px);
