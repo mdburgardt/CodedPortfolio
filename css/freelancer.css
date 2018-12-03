@@ -372,7 +372,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #FBA10E;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -409,7 +409,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #FBA10E !important;
 }
 
 .bg-secondary {
@@ -417,7 +417,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #18BC9C !important;
+  color: #FBA10E !important;
 }
 
 .text-secondary {
