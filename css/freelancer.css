@@ -158,7 +158,7 @@ section h2 {
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
     background: #FBA10E;
-  }
+  
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
     background: #FBA10E;
@@ -199,8 +199,8 @@ height: 30%;
 }
 
 .logo_small{
-  width: 20%;
-  height: 20%;
+  width: 30%;
+  height: 30%;
   margin-top: 40px;
 
 }
