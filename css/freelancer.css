@@ -178,6 +178,10 @@ width: 30%;
 height: 30%;
 }
 
+.image-scale-60{
+  scale: 60%;
+}
+
 .about-photo{
 padding-left: 50px;
 
@@ -228,6 +232,12 @@ padding-left: 50px;
   margin-top: 40px;
 
 }
+
+.icon_small{
+  width: 300px;
+  height: 275px;
+}
+
 
 .about-photo{
   width: 30%;
