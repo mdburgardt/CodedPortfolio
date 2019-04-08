@@ -208,18 +208,17 @@ padding-left: 50px;
 
 
 .text-grey{
-  font-size: 175%;
+  font-size: 160%;
   color: #2C3643;
-  text-align: left;
+ 
   padding-top: 60px;
-  padding-right: 25px;
+  ;
 }
 
 .text-grey-next{
-  font-size: 175%;
+  font-size: 160%;
   color: #2C3643;
-  text-align: left;
-  padding-right: 25px;
+
 }
 
 .spacing{
@@ -229,13 +228,14 @@ padding-left: 50px;
 .logo_small{
   width: 30%;
   height: 30%;
+  align: center:
   margin-top: 40px;
 
 }
 
 .icon_small{
   width: 300px;
-  height: 275px;
+  height: 270px;
 }
 
 
@@ -422,7 +422,7 @@ a:focus, a:hover, a:active {
 }
 
 .brick_bg {
-  background-image: url(../img/portfolio/Home_Background_Texture_Edit.png);
+  background-image: url(../img/portfolio/Home_Background_Texture_Final2.png);
   background-size: cover;
 
 }
