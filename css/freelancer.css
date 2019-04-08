@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Nunito Sans', Verdana,Tahoma, sans-serif; 
 }
 
 h1,
@@ -183,8 +183,9 @@ height: 30%;
 }
 
 .about-photo{
-padding-left: 50px;
-
+width: 100%;
+height: 30%;
+margin-bottom: -20px;
 }
 
 
@@ -210,9 +211,7 @@ padding-left: 50px;
 .text-grey{
   font-size: 160%;
   color: #2C3643;
- 
-  padding-top: 60px;
-  ;
+  
 }
 
 .text-grey-next{
@@ -228,7 +227,7 @@ padding-left: 50px;
 .logo_small{
   width: 30%;
   height: 30%;
-  align: center:
+  align: center;
   margin-top: 40px;
 
 }
