@@ -103,16 +103,29 @@ section h2 {
   opacity:0.5;
 }
 
+.backdrop{
+  width:250vw;
+  height: 190vh;
+  margin-left: -400px;
+  margin-top: -1210px;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
 
 .modal-image{
   height: 200%;
   width: 100%;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 1000;
 }
-
 
 .modal-xl {
   width: 90%;
  max-width:1200px;
+}
+
+.modal.in {
+  background-color: rgba(0,0,0,0.5);
 }
 
 .scroll-to-top {
@@ -172,6 +185,8 @@ section h2 {
     padding-bottom: 1.5rem;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
+
+    
   }
   #mainNav .navbar-brand {
     font-size: 2em;
@@ -504,7 +519,7 @@ a:focus, a:hover, a:active {
   }
 }
 
-@media (min-width: 576px) {
+@media screen and (max-width: 900px) and (min-width: 576px) {
   .portfolio {
     margin-bottom: -30px;
   }
@@ -514,6 +529,9 @@ a:focus, a:hover, a:active {
   .myspaces .col-lg-6{
     margin-left: 0px;
     margin-bottom: 40px;
+  }
+  .backdrop{
+    overflow: hidden;
   }
 }
 
