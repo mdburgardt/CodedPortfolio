@@ -248,6 +248,10 @@ margin-bottom: -20px;
   padding-bottom: -10px;
 }
 
+.styleguide{
+  scale: 150%;
+}
+
 
 .text-grey{
   font-size: 160%;
