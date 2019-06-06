@@ -282,6 +282,16 @@ margin-bottom: -20px;
   height: 270px;
 }
 
+.icon_smallest{
+  width:200px;
+  height:170px;
+}
+
+.icon_smallestest{
+  width:180px;
+  height:150px;
+}
+
 
 .about-photo{
   width: 30%;
